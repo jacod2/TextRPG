@@ -1,0 +1,29 @@
+﻿  Main.cpp
+  func.cpp
+C:\Users\kjh\Desktop\new\TextRPG\TextRPG\struct.h(6,19): error C3646: 'PlayerName': 알 수 없는 재정의 지정자입니다.
+C:\Users\kjh\Desktop\new\TextRPG\TextRPG\struct.h(6,19): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\kjh\Desktop\new\TextRPG\TextRPG\struct.h(7,18): error C3646: 'PlayerJob': 알 수 없는 재정의 지정자입니다.
+C:\Users\kjh\Desktop\new\TextRPG\TextRPG\struct.h(7,18): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\kjh\Desktop\new\TextRPG\TextRPG\struct.h(18,19): error C3646: 'DugeonName': 알 수 없는 재정의 지정자입니다.
+C:\Users\kjh\Desktop\new\TextRPG\TextRPG\struct.h(18,19): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\kjh\Desktop\new\TextRPG\TextRPG\struct.h(19,20): error C3646: 'MonsterName': 알 수 없는 재정의 지정자입니다.
+C:\Users\kjh\Desktop\new\TextRPG\TextRPG\struct.h(19,20): error C2143: 구문 오류: ','이(가) '[' 앞에 없습니다.
+C:\Users\kjh\Desktop\new\TextRPG\TextRPG\struct.h(19,23): error C2143: 구문 오류: ')'이(가) ';' 앞에 없습니다.
+C:\Users\kjh\Desktop\new\TextRPG\TextRPG\struct.h(19,23): error C2238: ';' 앞에 예기치 않은 토큰이 있습니다.
+C:\Users\kjh\Desktop\new\TextRPG\TextRPG\func.cpp(13,18): error C2039: 'PlayerName': 'PlayerStat'의 멤버가 아닙니다.
+C:\Users\kjh\Desktop\new\TextRPG\TextRPG\struct.h(4): message : 'PlayerStat' 선언을 참조하십시오.
+C:\Users\kjh\Desktop\new\TextRPG\TextRPG\func.cpp(29,12): error C2039: 'PlayerJob': 'PlayerStat'의 멤버가 아닙니다.
+C:\Users\kjh\Desktop\new\TextRPG\TextRPG\struct.h(4): message : 'PlayerStat' 선언을 참조하십시오.
+C:\Users\kjh\Desktop\new\TextRPG\TextRPG\func.cpp(38,12): error C2039: 'PlayerJob': 'PlayerStat'의 멤버가 아닙니다.
+C:\Users\kjh\Desktop\new\TextRPG\TextRPG\struct.h(4): message : 'PlayerStat' 선언을 참조하십시오.
+C:\Users\kjh\Desktop\new\TextRPG\TextRPG\func.cpp(46,12): error C2039: 'PlayerJob': 'PlayerStat'의 멤버가 아닙니다.
+C:\Users\kjh\Desktop\new\TextRPG\TextRPG\struct.h(4): message : 'PlayerStat' 선언을 참조하십시오.
+C:\Users\kjh\Desktop\new\TextRPG\TextRPG\func.cpp(72,33): error C2039: 'PlayerName': 'PlayerStat'의 멤버가 아닙니다.
+C:\Users\kjh\Desktop\new\TextRPG\TextRPG\struct.h(4): message : 'PlayerStat' 선언을 참조하십시오.
+C:\Users\kjh\Desktop\new\TextRPG\TextRPG\func.cpp(73,33): error C2039: 'PlayerJob': 'PlayerStat'의 멤버가 아닙니다.
+C:\Users\kjh\Desktop\new\TextRPG\TextRPG\struct.h(4): message : 'PlayerStat' 선언을 참조하십시오.
+C:\Users\kjh\Desktop\new\TextRPG\TextRPG\func.cpp(111,33): error C2039: 'MonsterName': 'tagDungeon'의 멤버가 아닙니다.
+C:\Users\kjh\Desktop\new\TextRPG\TextRPG\struct.h(16): message : 'tagDungeon' 선언을 참조하십시오.
+C:\Users\kjh\Desktop\new\TextRPG\TextRPG\func.cpp(128,16): error C2039: 'DugeonName': 'tagDungeon'의 멤버가 아닙니다.
+C:\Users\kjh\Desktop\new\TextRPG\TextRPG\struct.h(16): message : 'tagDungeon' 선언을 참조하십시오.
+  코드를 생성하고 있습니다...
